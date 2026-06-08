@@ -237,7 +237,7 @@ Observed improvements:
 
 ---
 ## 🚗 Demo
-
+(view the demo)[https://traffic-ai-team.github.io/traffic_ai_project/]
 
 ---
 
