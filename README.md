@@ -258,7 +258,7 @@ Observed improvements:
 - Ibrahim Ashraf
 - Abdel Fattah Ahmed
 - Sylvia Sameh
-- Abda Mohamed
+- Abdo Mohamed
 - Sara Reda
 - Amgad Ali
 
